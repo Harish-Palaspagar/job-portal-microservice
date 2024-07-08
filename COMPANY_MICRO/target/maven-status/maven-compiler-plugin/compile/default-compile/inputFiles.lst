@@ -1,0 +1,10 @@
+D:\EMBARK\COMPANY_MICRO\src\main\java\com\harish\companies\clients\ReviewClient.java
+D:\EMBARK\COMPANY_MICRO\src\main\java\com\harish\companies\controller\CompanyController.java
+D:\EMBARK\COMPANY_MICRO\src\main\java\com\harish\companies\dto\ReviewMessage.java
+D:\EMBARK\COMPANY_MICRO\src\main\java\com\harish\companies\entity\Company.java
+D:\EMBARK\COMPANY_MICRO\src\main\java\com\harish\companies\implementation\CompanyServiceImplementation.java
+D:\EMBARK\COMPANY_MICRO\src\main\java\com\harish\companies\messaging\RabbitMQConfiguration.java
+D:\EMBARK\COMPANY_MICRO\src\main\java\com\harish\companies\messaging\ReviewMessageConsumer.java
+D:\EMBARK\COMPANY_MICRO\src\main\java\com\harish\companies\repository\CompanyRepository.java
+D:\EMBARK\COMPANY_MICRO\src\main\java\com\harish\companies\service\CompanyService.java
+D:\EMBARK\COMPANY_MICRO\src\main\java\com\harish\CompanyMicroApplication.java
